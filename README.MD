@@ -1,4 +1,9 @@
-# [Sega MegaCD](https://en.wikipedia.org/wiki/Sega_CD) for [MiSTer Platform](https://github.com/MiSTer-devel/Main_MiSTer/wiki)
+# Sega MegaCD for SoCkit
+Ported from https://github.com/MiSTer-devel/MegaCD_MiSTer according from Somhi sockit template.
+
+Follows original readme file.
+
+# (https://en.wikipedia.org/wiki/Sega_CD) for [MiSTer Platform](https://github.com/MiSTer-devel/Main_MiSTer/wiki)
 
 # Installation
 Place BIOS to MegaCD folder with name boot.rom
